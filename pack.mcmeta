@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 88,
+    "description": "Levi's better MC",
+    "supported_formats": {
+      "min_inclusive": 6,
+      "max_inclusive": 88
+    },
+    "min_format": [6, 0],
+    "max_format": [88, 0]
+  }
+}

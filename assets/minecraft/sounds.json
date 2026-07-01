@@ -1,0 +1,71 @@
+{
+  "entity.player.hurt": {
+    "replace": true,
+    "sounds": [
+      "damage/hit1",
+      "damage/hit2",
+      "damage/hit3"
+    ]
+  },
+
+  "entity.player.big_fall": {
+    "replace": true,
+    "sounds": [
+      "damage/fallbig"
+    ]
+  },
+
+  "entity.player.small_fall": {
+    "replace": true,
+    "sounds": [
+      "damage/fallsmall"
+    ]
+  },
+
+  "entity.player.attack.crit": {
+    "replace": true,
+    "sounds": [
+      "entity/player/attack/crit1",
+      "entity/player/attack/crit2",
+      "entity/player/attack/crit3"
+    ]
+  },
+
+  "item.shield.block": {
+    "replace": true,
+    "sounds": [
+      "item/shield/block1",
+      "item/shield/block2",
+      "item/shield/block3",
+      "item/shield/block4",
+      "item/shield/block5"
+    ]
+  },
+
+  "item.totem.use": {
+    "replace": true,
+    "sounds": [
+      "item/totem/use_totem"
+    ]
+  },
+
+  "entity.generic.explode": {
+    "replace": true,
+    "sounds": [
+      "random/explode1",
+      "random/explode2",
+      "random/explode3",
+      "random/explode4"
+    ]
+  },
+
+  "enchant.thorns.hit": {
+    "replace": true,
+    "sounds": [
+      "enchant/thorns/hit1",
+      "enchant/thorns/hit2",
+      "enchant/thorns/hit3",
+      "enchant/thorns/hit4"
+    ]
+  }
+}
