@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.4 - 2026-07-01
+- Removed `sounds.json`. All replaced sound files already sit at vanilla's default paths, so the pack overrides them by simple overlay — no custom sound-event mapping is needed.
+
 ## 1.3 - 2026-07-01
 - Added MIT license.
 
