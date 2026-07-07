@@ -1,5 +1,8 @@
 # Changelog
 
+## 1.6 - 2026-07-07
+- made mace hit fart sound
+
 ## 1.5 - 2026-07-01
 - Widened declared compatibility to resourcepack format 2 (Minecraft 1.9), matching the real minimum version where the replaced sound paths exist. Previously declared min_format 6 (1.16.2), which was more restrictive than reality.
 
